@@ -1,0 +1,4 @@
+[submodule "mod"]
+	path = mod
+	url = https://github.com/cirosantilli/test-submodule-mod
+	shallow = true
